@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Teko Hashimoto
-- 👀 I’m interested in fun coding!
-- 🌱 I’m currently learning Java.
+Sou um jovem senhor que, após algumas adversidades, decidiu recomeçar a vida.
+Apaixonado por tecnologia, investindo em conhecimento e aprendendo programação.
+Conhecimentos em HTML/CSS/JS e aprendendo Java.
+
 
 
 <!---
